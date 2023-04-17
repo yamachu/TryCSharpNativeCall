@@ -1,0 +1,7 @@
+# generated
+bin
+obj
+.artifacts
+
+# local
+*.local.*
